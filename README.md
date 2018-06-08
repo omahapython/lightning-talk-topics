@@ -7,7 +7,7 @@ This repo is a place for members of the Omaha Python User Group to suggest topic
 * Meta Classes: What they are and when to use them.
 * Publishing a Python Package to PyPi.
 * Implementing OAuth and Social Auth in a webapp
-* Retrieving credentials from a third party API using Oauth and Social Auth
+* Retrieving credentials from a third party API using OAuth and Social Auth
 
 ## Previous Topics
 
